@@ -1,0 +1,515 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22523.1000; Version 2009; 64bit' Language: 'en' Physical Memory: 16340 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity Projects/RoomMap
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51965
+Successfully changed project path to: D:/Unity Projects/RoomMap
+D:/Unity Projects/RoomMap
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 68.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity Projects/RoomMap/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c60)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56080
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003128 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 56.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.182 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001339 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 63.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.267 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2055 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2499.
+Total: 3.257900 ms (FindLiveObjects: 0.370600 ms CreateObjectMapping: 0.125800 ms MarkObjects: 2.598300 ms  DeleteObjects: 0.161600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86012616f14ee6ef0f29cc3b99745ec2') in 0.087725 seconds
+  Import took 0.094598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.536407 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba5e998d8fbd8ece0932fcc87d11370') in 0.009586 seconds
+  Import took 0.014182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.355051 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c770db7ae29878114bd634e5e02c639d') in 0.009052 seconds
+  Import took 0.013463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.403733 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e82ddb32218abdddce13d7319765d14') in 0.008666 seconds
+  Import took 0.014074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.191449 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f654d809e70168c87fbcde9a8fe6a9d8') in 0.010503 seconds
+  Import took 0.015368 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001337 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.331 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2050 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2503.
+Total: 3.145400 ms (FindLiveObjects: 0.480200 ms CreateObjectMapping: 0.110100 ms MarkObjects: 2.419000 ms  DeleteObjects: 0.133600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.258180 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7bf9409429a96979ce7c1778e2ece0') in 0.039375 seconds
+  Import took 0.043083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.929210 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '187bba65f0eecfc379d9db65d6c248a2') in 0.009457 seconds
+  Import took 0.014872 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001593 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.180 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2050 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.0 MB.
+System memory in use after: 92.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2507.
+Total: 5.106800 ms (FindLiveObjects: 0.475700 ms CreateObjectMapping: 0.212200 ms MarkObjects: 4.205900 ms  DeleteObjects: 0.209800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.515885 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4276cede5b6ac242dca46ba38ab7204') in 0.040401 seconds
+  Import took 0.044379 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001122 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Mono: successfully reloaded assembly
+- Completed reload, in  1.975 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3032 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.9 MB.
+System memory in use after: 123.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3493.
+Total: 21.341100 ms (FindLiveObjects: 0.619000 ms CreateObjectMapping: 0.241000 ms MarkObjects: 20.323000 ms  DeleteObjects: 0.155500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001316 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.016 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3033 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.0 MB.
+System memory in use after: 123.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3498.
+Total: 22.399900 ms (FindLiveObjects: 0.426800 ms CreateObjectMapping: 0.211700 ms MarkObjects: 21.552500 ms  DeleteObjects: 0.205600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001827 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.719 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3032 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.0 MB.
+System memory in use after: 123.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3502.
+Total: 42.102100 ms (FindLiveObjects: 2.123500 ms CreateObjectMapping: 0.362200 ms MarkObjects: 39.382600 ms  DeleteObjects: 0.231200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001234 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.519 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3032 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.0 MB.
+System memory in use after: 123.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3506.
+Total: 29.168200 ms (FindLiveObjects: 1.571000 ms CreateObjectMapping: 0.402200 ms MarkObjects: 27.033100 ms  DeleteObjects: 0.159400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 459.738581 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd31b35416a697c7433628aebfe17fb2c') in 0.045036 seconds
+  Import took 0.052209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.824467 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be68466e3319f9eabb8aeee50298fe1f') in 0.004455 seconds
+  Import took 0.010517 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001366 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.993 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3032 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.0 MB.
+System memory in use after: 123.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3510.
+Total: 25.401300 ms (FindLiveObjects: 0.583600 ms CreateObjectMapping: 0.206900 ms MarkObjects: 24.439400 ms  DeleteObjects: 0.169400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 152.332027 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b998bdf7b96f949d5d4b193e4ba7d0d') in 0.052427 seconds
+  Import took 0.059136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.813088 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d9fe86a742f4be5abb20910c276271c') in 0.011693 seconds
+  Import took 0.019442 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001261 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.995 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3032 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.0 MB.
+System memory in use after: 123.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3514.
+Total: 28.040100 ms (FindLiveObjects: 0.448900 ms CreateObjectMapping: 0.163800 ms MarkObjects: 27.242700 ms  DeleteObjects: 0.182900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001252 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.059 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3032 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.1 MB.
+System memory in use after: 123.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3518.
+Total: 23.716800 ms (FindLiveObjects: 0.709700 ms CreateObjectMapping: 0.313700 ms MarkObjects: 22.519600 ms  DeleteObjects: 0.170400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 211.550217 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43ca38a02548d5f8e113a203b6bea5f9') in 0.049241 seconds
+  Import took 0.055934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.439853 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b1cd6df52b5d59b98af13da710c5b9') in 0.014450 seconds
+  Import took 0.023457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.246884 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ab7136de35bc7c584edacb0e6a228af') in 0.008432 seconds
+  Import took 0.015216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.291692 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd144490bd4bc424bff6f502b09d54b85') in 0.010350 seconds
+  Import took 0.018335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.254435 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16fbc9c3a08814aaa5ee861bc5b2287a') in 0.009613 seconds
+  Import took 0.015571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.559702 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '698e5378d41a4eff826874fc4efa0c02') in 0.009514 seconds
+  Import took 0.016221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.025106 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eea37a3f2146fa0d4db9328b4c73a3fc') in 0.009411 seconds
+  Import took 0.016681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.091575 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac4cbab26b14c4caa585d77a40a2c5c0') in 0.008005 seconds
+  Import took 0.014865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.393699 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5334ff9f57a6a671065243a39ab79b24') in 0.008618 seconds
+  Import took 0.014634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.569130 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7f253d4bc243ad96d8397edbe2478e8') in 0.010122 seconds
+  Import took 0.015819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.105721 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9990a4832ca4eae301522ad6b50841b') in 0.012821 seconds
+  Import took 0.018821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.216391 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f90dd268f4893d4aaf16176cb32caa05') in 0.010355 seconds
+  Import took 0.016288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.469012 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '189c15b987357a1abe30be7c15d1e5fc') in 0.010182 seconds
+  Import took 0.022855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.101473 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc4aa49fe55d0a93ec4a7fa28cf9352') in 0.008408 seconds
+  Import took 0.015416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.045516 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c9f66f06240d1986a583da83f8d2c1d') in 0.012493 seconds
+  Import took 0.019376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.297516 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '872d022fef362cc54413621ace1bb80b') in 0.009749 seconds
+  Import took 0.015824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.855402 seconds.
+  path: Assets/MapChip.prefab
+  artifactKey: Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapChip.prefab using Guid(b87f4d8e0b3834e48bd2e0a0bcdab767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd712fb48fdeb943d45edcecbc28438ab') in 0.008438 seconds
+  Import took 0.015603 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

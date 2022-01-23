@@ -1,0 +1,20 @@
+public enum ShapeType
+{
+    Blank,
+    Square,
+    Whole,
+    LeftEdge,
+    RightEdge,
+    TopEdge,
+    BottomEdge,
+    LeftRightEdge,
+    TopBottomEdge,
+    LeftCorner,
+    RightCorner,
+    TopCorner,
+    BottomCorner,
+    LeftTopCorner,
+    LeftBottomCorner,
+    RightTopCorner,
+    RightBottomCorner
+}
